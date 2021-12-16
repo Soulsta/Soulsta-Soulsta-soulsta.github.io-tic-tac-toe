@@ -1,0 +1,18 @@
+body{
+background-color: thistle;
+
+
+}
+.TheGame{
+margin-left: 25%;
+display: grid;
+grid-template-columns: auto auto auto;
+padding: 10px;
+text-align: center;
+margin-right: 25%;
+}
+
+.square{
+padding: 30px;
+
+}
